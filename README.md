@@ -1,3 +1,4 @@
+Project Team Members: 
 # 3308-015-08-lab3
 <<<<<<< HEAD
 
@@ -21,3 +22,4 @@ change -Hunter Hancock
 =======
 this is a mod
 
+Bit-O-Tundra's changes approved by amscott0

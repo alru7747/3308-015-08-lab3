@@ -1,6 +1,8 @@
 # 3308-015-08-lab3
 <<<<<<< HEAD
 
+Alec Ruiz de Castilla
+
 this is a mod
 <<<<<<< HEAD
 I made a mod - Isaac Scott

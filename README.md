@@ -26,4 +26,10 @@ this is a mod
 Bit-O-Tundra's changes approved by amscott0
 
 
+<<<<<<< HEAD
 Slav Ivanovich..:
+=======
+my mod - Slav Ivanovich
+made changes in UI
+
+>>>>>>> 9c42d56a2124fa10b5a63f002203bad4b5c7d62a

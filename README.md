@@ -27,5 +27,5 @@ Bit-O-Tundra's changes approved by amscott0
 
 
 my mod - Slav Ivanovich
-made changes in UI
+made changes IN UI
 
